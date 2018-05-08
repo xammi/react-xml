@@ -80,3 +80,4 @@ env.bak/
 venv.bak/
 
 .idea/
+db.sqlite3
